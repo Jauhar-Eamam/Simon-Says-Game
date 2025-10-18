@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+}
+
+.bodyRed {
+    background-color: red;
+}
+
+.outerBox {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.innerBox {
+    border: 10px solid black;
+    border-radius: 20%;
+    height: 200px;
+    width: 200px;
+    margin: 2rem;
+
+}
+
+.red {
+    background-color: #d95980;
+}
+
+.yellow {
+    background-color: #f99b45;
+}
+
+.purple {
+    background-color: #819ff9;
+}
+
+.green {
+    background-color: #63aac0;
+}
+
+.btnFlash {
+    background-color: white;
+}
+
+.btnFlashGreen {
+    background-color: rgb(82, 245, 82);
+}
+
+.h2Red {
+    color: red;
+}
