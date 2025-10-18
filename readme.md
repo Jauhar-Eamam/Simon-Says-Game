@@ -32,9 +32,12 @@ Each level adds one more color to the pattern.
 If you click the wrong color → Game Over
 
 📂 Project Structure
-├── index.html
+├── index.html 
+<br>
 ├── style.css
+<br>
 ├── script.js
+<br>
 └── README.md
 
 ✅ Future Improvements (Optional)
