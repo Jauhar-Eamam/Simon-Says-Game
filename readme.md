@@ -3,15 +3,13 @@
 A classic memory-based game where the player has to remember and repeat an increasing pattern of colors.
 This game is built using HTML, CSS, and JavaScript.
 
-🚀 Features
+# Features
 
 ✅ Simple and interactive UI
 ✅ Increasing difficulty (new color added each level)
-✅ Sound feedback
 ✅ Game Over animation
-✅ Responsive design
 
-🛠️ Technologies Used
+## Technologies Used
 
 HTML – For structure
 
@@ -19,7 +17,7 @@ CSS – For styling and animations
 
 JavaScript – For game logic and user interaction
 
-🎯 How to Play
+## How to Play
 
 Press "Start" button (or any key).
 
@@ -32,6 +30,7 @@ Each level adds one more color to the pattern.
 If you click the wrong color → Game Over
 
 📂 Project Structure
+<br>
 ├── index.html 
 <br>
 ├── style.css
@@ -40,7 +39,7 @@ If you click the wrong color → Game Over
 <br>
 └── README.md
 
-✅ Future Improvements (Optional)
+ Future Improvements (Optional)
 
 Difficulty modes
 
@@ -52,7 +51,7 @@ Dark mode
 
 You can add a screenshot of your game here.
 
-💡 What we Learn
+## What we Learn
 
 This project helps you understand:
 
@@ -68,5 +67,5 @@ Game logic design
  
 # 🧑‍💻 Author
 
-Jauhar Eamam
+## Jauhar Eamam
 Feel free to contribute or suggest improvements!
